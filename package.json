@@ -1,0 +1,24 @@
+{
+  "name": "node-sync-promise",
+  "version": "0.0.1",
+  "description": "A Node.js tool to run promise synchronously",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aihornmac/node-sync-promise.git"
+  },
+  "keywords": [
+    "node",
+    "sync",
+    "promise"
+  ],
+  "author": "Aihorn Mac <aihornmac@ihawn.com> (https://ihawn.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aihornmac/node-sync-promise/issues"
+  },
+  "homepage": "https://github.com/aihornmac/node-sync-promise#readme"
+}
